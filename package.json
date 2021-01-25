@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/blimmer/semantic-release-demo#readme",
   "devDependencies": {
+    "@semantic-release/git": "^9.0.0",
     "prettier": "^2.2.1",
     "semantic-release": "^17.3.7"
   }
