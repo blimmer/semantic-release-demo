@@ -1,3 +1,3 @@
 # semantic-release-demo
 
-A change
+This is a change I want to release
