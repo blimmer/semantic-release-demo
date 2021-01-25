@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/blimmer/semantic-release-demo/issues"
   },
-  "homepage": "https://github.com/blimmer/semantic-release-demo#readme"
+  "homepage": "https://github.com/blimmer/semantic-release-demo#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "semantic-release": "^17.3.7"
+  }
 }
