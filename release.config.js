@@ -31,6 +31,8 @@ module.exports = {
         assets: "dist/asset.txt",
       },
     ],
-    "@semantic-release/git",
+    // TODO: discuss - this would mean package.json version is not relied upon,
+    // but prevents needing backmerges.
+    // "@semantic-release/git",
   ],
 };
